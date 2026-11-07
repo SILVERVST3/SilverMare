@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Lua prateada -->
+    <path
+        android:fillColor="#C9D3DD"
+        android:pathData="M61,34 a9,9 0 1,0 18,0 a9,9 0 1,0 -18,0 z" />
+    <!-- Onda superior -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#4FC3D9"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:pathData="M28,58 C36,50 44,50 52,58 C60,66 68,66 80,56" />
+    <!-- Onda inferior -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#9AA7B4"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:pathData="M28,72 C36,64 44,64 52,72 C60,80 68,80 80,70" />
+</vector>

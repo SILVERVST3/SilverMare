@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SilverMaré</string>
+    <string name="widget_name">Maré agora</string>
+    <string name="widget_desc">Altura da maré agora, próximas preamar e baixa-mar e a curva das próximas horas</string>
+    <string name="chart_desc">Curva da maré das próximas horas</string>
+</resources>
